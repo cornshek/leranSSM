@@ -13,5 +13,6 @@
 <body>
     你好 JSP<br>
     <%=new Date().toString()%>
+    <%@include file="footer.jsp"%>
 </body>
 </html>

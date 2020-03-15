@@ -1,4 +1,4 @@
-<%@ page import="bean.Hero" %>
+ <%@ page import="bean.Hero" %>
 <%@ page import="java.util.List" %><%--
   Created by IntelliJ IDEA.
   User: lenovo
